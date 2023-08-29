@@ -1,1 +1,1 @@
-# sppotify-to-youtube-playlist-converter
+# spotify-to-youtube-playlist-converter
