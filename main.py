@@ -9,7 +9,6 @@ def options():
         Edit Playlist Title                                     - EPT\n\
         Edit Playlist Description                               - EPD\n\
         Edit Playlist Privacy Status                            - EPP\n\
-        Add songs to a Playlist                                 - AP\n\
         Delete an Existing Playlist                             - DP\n").upper().strip()
         if choice == 'SPYT':
             return 'spotify_to_youtube'
