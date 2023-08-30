@@ -19,7 +19,10 @@ It's the alphanumeric sequence after `list=`
 # An Example
 Here we are using the Spotify Top 50 Global Songs Playlist as an example
 ![image](https://github.com/varun-kanna/Spotify-to-Youtube-Playlist-Converter/assets/73306137/bba877e7-8a36-43a3-9900-ad85e6834f90)
+
 We enter the according details.
+![image](https://github.com/varun-kanna/Spotify-to-Youtube-Playlist-Converter/assets/73306137/0d547c55-fb28-41b4-9413-00439d6e1bf2)
+
 Then on YouTube Music we have the according playlist.
 ![image](https://github.com/varun-kanna/Spotify-to-Youtube-Playlist-Converter/assets/73306137/fbfb191f-a72e-4a1b-bf12-4c664f109dc4)
 
