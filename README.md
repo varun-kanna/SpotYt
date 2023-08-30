@@ -1,4 +1,3 @@
-# spotify-to-youtube-playlist-converter
 # Setup
 Use [exportify]([url](https://watsonbox.github.io/exportify/)) to convert the Spotify Playlists to CSV format.
 Download the CSV's into the proper project folder. t
