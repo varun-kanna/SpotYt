@@ -1,6 +1,6 @@
 # Setup
 Use [exportify]([url](https://watsonbox.github.io/exportify/)) to convert the Spotify Playlists to CSV format.
-Download the CSV's into the proper project folder. t
+Download the CSV's into the proper project folder. 
 You should have the file path to the CSV, but preferably put it in the proper project folder. 
 Now you should have at least one CSV playlist to use.
 Then setup [ytmusicapi]([url](https://ytmusicapi.readthedocs.io/en/latest/index.html)) to create a browser.json file. 
