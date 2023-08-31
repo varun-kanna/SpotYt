@@ -1,10 +1,10 @@
 # Setup
-Use [exportify]([url](https://watsonbox.github.io/exportify/)) to convert the Spotify Playlists to CSV format.
+Use [exportify](https://watsonbox.github.io/exportify/) to convert the Spotify Playlists to CSV format.
 Download the CSV's into the proper project folder. 
 You should have the file path to the CSV, but preferably put it in the proper project folder. 
 Now you should have at least one CSV playlist to use.
-Then setup [ytmusicapi]([url](https://ytmusicapi.readthedocs.io/en/latest/index.html)) to create a browser.json file. 
-Do the [Manual file creation]([url](https://ytmusicapi.readthedocs.io/en/latest/setup/browser.html)) and create a browser.json to use as the auth file.
+Then setup [ytmusicapi](https://ytmusicapi.readthedocs.io/en/latest/index.html) to create a browser.json file. 
+Do the [Manual file creation](https://ytmusicapi.readthedocs.io/en/latest/setup/browser.html) and create a browser.json to use as the auth file.
 You should now have a browser.json that you can use to pass in your information to the API.
 If you followed the steps above, you should have main.py, browser.json, and a playlist csv.
 
